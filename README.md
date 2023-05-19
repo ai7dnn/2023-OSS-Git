@@ -22,7 +22,7 @@
 | 08 | [OSS Git] #08 로그 이력과 과거 여행 | https://youtu.be/OmguIB3V_O0 | 
 | 09 | [OSS Git] #09 커밋과 로그 이력, 과거 여행 | https://youtu.be/yk_PuoTl_MQ | 
 | 10 | [OSS Git] #10 파일 비교 | https://youtu.be/QBiQYjEvoU4 | 
-| 11 | [OSS Git] #11 파일 삭제 rm과 복원 | restore https://youtu.be/22KjmBgqSes | 
+| 11 | [OSS Git] #11 파일 삭제 rm과 복원 restore | https://youtu.be/22KjmBgqSes | 
 | 12 | [OSS Git] #12 파일 diff와 rm restore | https://youtu.be/FO0SFOWNjzY | 
 | 13 | [OSS Git] #13 버전과 태그 활용 | https://youtu.be/hqjN_W82nGE | 
 | 14 | [OSS Git] #14 브랜치 개요와 관리 | https://youtu.be/LMlUQ3Ez9aw | 
@@ -42,6 +42,5 @@
 | 28 | [OSS Git] #28 버전 되돌리기 reset | https://youtu.be/sPdIuHB3dDk | 
 | 29 | [OSS Git] #29 [실습] 버전 되돌리기 reset | https://youtu.be/yI7gwpGnuk0 | 
 | 30 | [OSS Git] #30 커밋 취소 revert | https://youtu.be/fg-ZpdWikA8 | 
-| ---  | ----------- | ----------- |
 
 
