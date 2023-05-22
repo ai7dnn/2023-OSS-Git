@@ -9,6 +9,7 @@
 
 ### 깃과 깃허브의 이해
 - [깃 설정](https://gist.github.com/ai7dnn/dbda05cd30d5718c65e5672ee78f9d7f)
+- [마크다운](https://gist.github.com/ai7dnn/4a631d423b6c23ab14a13fb47842c2a1)
 
 ### 2023년 2학기 개설 예정 [오픈소스소프트웨어] 교과목 유튜브 강의
 
